@@ -21,6 +21,8 @@ Ocupa el 50% de ancho y el 100% de alto, dentro de este contenedor solo esta la 
 
 Ocupa el 25% de ancho y el 100% de alto,hay un div que contiene todos los botones,estos tienen una class con la que modifico su tamaño, aparte cada botón tiene su propio div .Los botones ahora mismo no son funcionales exceptuando el de información que al pulsarlo te llevara a otra página con las instrucciones, para volver a la página anterior tienes que pulsar en las instrucciones (esto es temporal). El botón de pausa en la versión final al pulsarlo se cambiara por el botón de play, el cual  por ahora esta en oculto. El botón de power y el de menú están en oculto ya que solo forman parte de la versión móvil.
 
+### Otros
+
 La luna esta fija en la parte baja de la pantalla.
 
 ## Versión móvil:
@@ -30,5 +32,7 @@ Los divs izquierdo,central y derecho  son los mismos que en la versión de orden
 ### Div Derecho:
 
 Los botones que habían en la versión de móvil han sido cambiados por un solo botón, el de menú, al pulsarlo aparecerán los botones de play,reiniciar y información, ahora mismo estos botones no están en oculto, el botón de información te redirige a la página con las instrucciones, al pulsar en las instrucciones, vuelves a la página anterior.
+
+### Otros
 
 Ahora en la parte de abajo hay un nuevo botón, el de power, que esta superpuesto a la luna.
