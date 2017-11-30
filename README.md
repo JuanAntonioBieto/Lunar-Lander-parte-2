@@ -2,7 +2,7 @@
 
 ## Esta es la versión minificada.
 
-### RawGit minificado: https://rawgit.com/JuanAntonioBieto/Lunar-Lander-parte-2/minificado/Lander.html
+#### RawGit minificado: https://rawgit.com/JuanAntonioBieto/Lunar-Lander-parte-2/minificado/Lander.html
 
 ## Modificaciones respecto al original:
 
