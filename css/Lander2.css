@@ -1,0 +1,105 @@
+﻿body{
+	background-image:url("../img/Fondo.jpg");
+}
+.Medio{
+	height:100%;
+	width:50%;
+	text-align:center;
+	float:left;
+}
+#Nave{
+	text-align:center;	
+}
+#Nave1{
+	height:40%;
+	width:40%;
+	text-align:center;
+}
+#Instrucciones1{
+	height:100%;
+	width:100%;
+	margin-top:10%;
+}
+.Izquierda{
+	height:100%;
+	width:25%;
+	float:left;
+}
+.Paneles1{
+	margin-bottom:1%;
+	height:100%;
+	width:100%;
+}
+.Paneles{
+	height:100%;
+	width:100%;
+}
+#Combustible{
+	position:relative;
+}
+#Velocidad{
+	position:relative;
+}
+#Altura{
+	position:relative;
+}
+#Derecha{
+	height:100%;
+	width:25%;
+	display:inline-block;
+}
+#Contenedor{
+	position:relative;
+	margin-right:10%;
+	width:1%;
+}
+.Botones{
+	height:100%;
+	width:100%;
+	margin:1%;
+}
+#Menu{
+	position:relative;
+	left:0%;
+}
+#Menu1{
+	height:100%;
+	width:100%;
+}
+#Pausa{
+display:none;
+}
+#Power{
+	bottom:1%;
+	left:45%;
+	width:13%;
+	position:absolute;
+}
+#Luna{
+	height:10%;
+	width:60%;
+	position:fixed;
+	bottom:0;
+	right:18%;
+}
+#texto1{
+	font-size:5vw;
+	position:absolute;
+	top:30%;
+	left:25%;
+	z-index:5;
+}
+#texto2{
+	font-size:5vw;
+	position:absolute;
+	top:30%;
+	left:25%;
+	z-index:5;
+}
+#texto3{
+	font-size:5vw;
+	position:absolute;
+	top:30%;
+	left:25%;
+	z-index:5;
+}
